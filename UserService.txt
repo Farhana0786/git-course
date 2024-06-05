@@ -6,4 +6,6 @@ create an avatar for user
 
 new content
 
-login and logout
+login and 
+
+change 1
