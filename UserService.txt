@@ -4,9 +4,9 @@ Process the data
 
 create an avatar for user
 
-new content
+new content hello
 
-login and 
+login and farhana
 
 change 1
 hello hiii
