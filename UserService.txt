@@ -4,9 +4,9 @@ Process the data
 
 create an avatar for user
 
-new content hello
 
-login and farhana
+=======
+new content merge conflict error
 
-change 1
-hello hiii
+login and logout merge error
+>>>>>>> feature3
