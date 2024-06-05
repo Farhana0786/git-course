@@ -2,7 +2,7 @@ Get the user data...
 hello
 Process the data
 
-create an avatar for user
+create an avatar for user the data base
 
 
 =======
